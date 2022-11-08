@@ -1,0 +1,315 @@
+Analytics Alerts by Required Data Source
+A LOLBIN was copied to a different location
+A Successful SSO sign-in from TOR
+A Successful VPN connection from TOR
+A Successful login from TOR
+A WMI subscriber was created
+A cloud identity connected from a new country
+A disabled user attempted to authenticate via SSO
+A disabled user attempted to log in
+A rare disabled user attempted to log in
+A suspicious process enrolled for a certificate
+A suspicious process queried AD CS objects via LDAP
+A user connected a USB storage device to a host for the first time
+A user connected a new USB storage device to a host
+A user connected a new USB storage device to multiple hosts
+A user created a pfx file for the first time
+A user created an abnormal password-protected archive
+AWS Cloud Trail log trail modification
+AWS CloudWatch log group deletion
+AWS CloudWatch log stream deletion
+AWS Config Recorder stopped
+AWS EC2 instance exported into S3
+AWS Flow Logs deletion
+AWS Guard-Duty detector deletion
+AWS IAM resource group deletion
+AWS RDS cluster deletion
+AWS Role Trusted Entity modification
+AWS System Manager API call execution
+AWS config resource deletion
+AWS network ACL rule creation
+AWS network ACL rule deletion
+AWS user creation
+AWS web ACL deletion
+Account probing
+Activity in a dormant region of a cloud project
+Administrator groups enumerated via LDAP
+An AWS RDS Global Cluster Deletion
+An Azure Firewall policy deletion
+An IAM group was created
+An Identity accessed a secret from Secret Manager
+An identity assumed a Role
+An identity dumped multiple secrets from a project
+Aurora DB cluster stopped
+Authentication Attempt From a Dormant Account
+Azure Automation Account Creation
+Azure Automation Runbook Creation/Modification
+Azure Automation Runbook Deletion
+Azure Automation Webhook creation
+Azure Blob Container Access Level Modification
+Azure Event Hub Authorization rule creation/modification
+Azure Event Hub Deletion
+Azure Key Vault modification
+Azure Network Watcher Deletion
+Azure Resource Group Deletion
+Azure Storage Account key generated
+Azure diagnostic configuration deletion
+Azure user creation
+Azure virtual machine commands execution
+Bitsadmin.exe persistence using command-line callback
+Bronze-Bit exploit
+Cached credentials discovery with cmdkey
+Certutil pfx parsing
+Cloud Trail Logging has been stopped/suspended
+Cloud Trail logging deletion
+Cloud Watch alarm deletion
+Cloud compute remote command execution
+Cloud identity performed multiple actions that were denied
+Commonly abused AutoIT script connects to an external domain
+Commonly abused AutoIT script drops an executable file to disk
+Commonly abused process launched as a system service
+DNS Tunneling
+Delayed Deletion of Files
+Disable encryption operations
+Discovery of host users via WMIC
+Discovery of misconfigured certificate templates using LDAP
+Domain federation settings have been modified
+EC2 snapshot attribute has been modification
+Elevation to SYSTEM via services
+Execution of renamed lolbin
+Execution of the Hydra Linux password brute-force tool
+External cloud storage access with an unusual ASN
+External cloud storage access with unusual user agent
+Failed Connections
+Failed DNS
+Failed Login For Locked-Out Account
+Failed Login For a Long Username With Special Characters
+First SSO access from ASN for user
+First SSO access from ASN in organization
+First access to a bucket by an identity
+First cloud API call from a country in organization
+First connection from a country in organization
+GCP Firewall Rule Modification
+GCP Firewall Rule creation
+GCP IAM Custom Role Creation
+GCP IAM Role Deletion
+GCP IAM Service Account Key Deletion
+GCP Logging Bucket Deletion
+GCP Logging Sink Deletion
+GCP Logging Sink Modification
+GCP Pub/Sub Subscription Deletion
+GCP Pub/Sub Topic Deletion
+GCP Service Account Disable
+GCP Service Account creation
+GCP Service Account deletion
+GCP Service Account key creation
+GCP Storage Bucket Configuration Modification
+GCP Storage Bucket Permissions Modification
+GCP Storage Bucket deletion
+GCP VPC Firewall Rule Deletion
+GCP Virtual Private Cloud (VPC) Network Deletion
+GCP Virtual Private Network Route Creation
+GCP Virtual Private Network Route Deletion
+Hidden Attribute was added to a file using attrib.exe
+IAM Enumeration sequence
+IAM User added to an IAM group
+IAM enumeration activity executed by an IAM user Identity
+Image File Execution Options Registry key injection by unsigned process
+Impossible traveler
+Interactive local account enumeration
+Interactive login by a machine account
+Interactive login by a service account
+Kerberos Pre-Auth Failures by Host
+Kerberos Pre-Auth Failures by User and Host
+Kerberos Traffic from Non-Standard Process
+Kerberos User Enumeration
+LDAP Traffic from Non-Standard Process
+LDAP search query from an unpopular and unsigned process
+LOLBIN connecting to a rare host
+LOLBIN process executed with a high integrity level
+LOLBIN spawned by an Office executable connected to a rare external host
+Large Upload (FTP)
+Large Upload (Generic)
+Large Upload (HTTPS)
+Large Upload (SMTP)
+Login Password Spray
+Login by a dormant user
+MFA device was removed/deactivated from an IAM user
+MSBuild Makes a Rare Network Connection
+Mailbox Client Access Setting (CAS) changed
+Manipulation of netsh helper DLLs Registry keys
+Massive file activity abnormal to process
+Massive upload to a rare storage or mail domain
+Microsoft Office Process Spawning a Suspicious One-Liner
+Microsoft Office process spawns a commonly abused process
+MpCmdRun.exe was used to download files into the system
+Mshta.exe launched with suspicious arguments
+Multi region enumeration activity
+Multiple Rare LOLBIN Process Executions by User
+Multiple Rare Process Executions in Organization
+Multiple Weakly-Encrypted Kerberos Tickets Received
+Multiple discovery commands
+NTLM Brute Force
+NTLM Brute Force on a Service Account
+NTLM Brute Force on an Administrator Account
+NTLM Hash Harvesting
+NTLM Relay
+Netcat makes or gets connections
+Network sniffing via command-line tool
+New Administrative Behavior
+New process created via a WMI call
+Non-browser access to a pastebin-like site
+Non-browser failed access to a pastebin-like site
+Outlook files accessed by an unsigned process
+Penetration testing tool activity
+Penetration testing tool attempt
+Phantom DLL Loading
+Ping to localhost from an uncommon, unsigned parent process
+Port Scan
+Possible AWS Instance Metadata Service (IMDS) Abuse
+Possible DCShadow attempt
+Possible DCSync Attempt
+Possible Email collection using Outlook RPC
+Possible Kerberoasting without SPNs
+Possible LDAP enumeration by unsigned process
+Possible Microsoft module side-loading into Microsoft process
+Possible Microsoft process masquerading
+Possible RDP session hijacking using tscon.exe
+Possible Search For Password Files
+Possible brute force or configuration change attempt on cytool
+Possible compromised machine account
+Possible data exfiltration over a USB storage device
+Possible external RDP Brute-Force
+Possible internal data exfiltration over a USB storage device
+Possible network service discovery via command-line tool
+Possible new DHCP server
+Possible use of a networking driver for network sniffing
+PowerShell Initiates a Network Connection to GitHub
+PowerShell pfx certificate extraction
+PowerShell runs suspicious base64-encoded commands
+PowerShell suspicious flags
+PowerShell used to export mailbox contents
+PowerShell used to remove mailbox export request logs
+Process connecting to default Meterpreter port
+RDP Connection to localhost
+Random-Looking Domain Names
+Rare AppID usage for port to rare destination
+Rare LOLBIN Process Execution by User
+Rare NTLM Access By User To Host
+Rare NTLM Usage by User
+Rare SMTP/S Session
+Rare SSH Session
+Rare Unsigned Process Spawned by Office Process Under Suspicious Directory
+Rare WinRM Session
+Rare communication over email ports to external email server by unsigned process
+Rare process execution by user
+Rare process execution in organization
+Rare process spawned by srvany.exe
+Rare security product signed executable executed in the network
+Rare signature signed executable executed in the network
+Recurring access to rare IP
+Recurring rare domain access from an unsigned process
+Recurring rare domain access to dynamic DNS domain
+Registration of Uncommon .NET Services and/or Assemblies
+Remote WMI process execution
+Remote account enumeration
+Remote command execution via wmic.exe
+Remote service command execution from an uncommon source
+Remote service start from an uncommon source
+Reverse SSH tunnel to external domain/ip
+Root user logged in to AWS console
+S3 configuration deletion
+SMB Traffic from Non-Standard Process
+SSO authentication by a machine account
+SSO authentication by a service account
+SSO with abnormal operating system
+SSO with new operating system
+SUID/GUID permission discovery
+Scrcons.exe Rare Child Process
+Script Connecting to Rare External Host
+Script file added to startup-related Registry keys
+SecureBoot was disabled
+Security tools detection attempt
+Sensitive browser credential files accessed by a rare non browser process
+Service execution via sc.exe
+Spam Bot Traffic
+Sudoedit Brute force attempt
+Suspicious AMSI decode attempt
+Suspicious API call from a Tor exit node
+Suspicious Encrypting File System Remote call (EFSRPC) to domain controller
+Suspicious PowerShell Command Line
+Suspicious PowerShell Enumeration of Running Processes
+Suspicious PowerSploit's recon module (PowerView) net function was executed
+Suspicious PowerSploit's recon module (PowerView) used to search for exposed hosts
+Suspicious Process Spawned by Adobe Reader
+Suspicious Process Spawned by wininit.exe
+Suspicious RunOnce Parent Process
+Suspicious SMB connection from domain controller
+Suspicious SSO access from ASN
+Suspicious SearchProtocolHost.exe parent process
+Suspicious active setup registered
+Suspicious authentication package registered
+Suspicious disablement of the Windows Firewall
+Suspicious disablement of the Windows Firewall using PowerShell commands
+Suspicious dump of ntds.dit using Shadow Copy with ntdsutil/vssadmin
+Suspicious identity downloaded multiple objects from a bucket
+Suspicious print processor registered
+Suspicious process accessed a site masquerading as Google
+Suspicious process accessed certificate files
+Suspicious process executed with a high integrity level
+Suspicious process execution by scheduled task
+Suspicious runonce.exe parent process
+Suspicious time provider registered
+Suspicious unsigned process loads a known PowerShell module
+Suspicious usage of Microsoft's Active Directory PowerShell module remote discovery cmdlet
+System information discovery via psinfo.exe
+System profiling WMI query execution
+TGT reuse from different hosts (pass the ticket)
+The CA policy EditFlags was queried
+UNIX LOLBIN connecting to a rare host
+Uncommon ARP cache listing via arp.exe
+Uncommon GetClipboardData API function invocation of a possible information stealer
+Uncommon IP Configuration Listing via ipconfig.exe
+Uncommon Managed Object Format (MOF) compiler usage
+Uncommon NtWriteVirtualMemoryRemote API invocation with a PE header buffer
+Uncommon RDP connection
+Uncommon Security Support Provider (SSP) registered via a registry key
+Uncommon Service Create/Config
+Uncommon SetWindowsHookEx API invocation of a possible keylogger
+Uncommon local scheduled task creation via schtasks.exe
+Uncommon msiexec execution of an arbitrary file from the web
+Uncommon multiple service stop commands
+Uncommon net group execution
+Uncommon net localgroup execution
+Uncommon remote scheduled task creation
+Uncommon remote service start via sc.exe
+Uncommon routing table listing via route.exe
+Uncommon user management via net.exe
+Unicode RTL Override Character
+Unprivileged process opened a registry hive
+Unsigned and unpopular process performed a DLL injection
+Unsigned and unpopular process performed an injection
+Unsigned process creates a scheduled task via file access
+Unusual AWS systems manager activity
+Unusual IAM enumeration activity by a non-user Identity
+Unusual Identity and Access Management (IAM) activity
+Unusual Lolbins Process Spawned by InstallUtil.exe
+Unusual certificate management activity
+Unusual key management activity
+Unusual process accessed the PowerShell history file
+Unusual secret management activity
+Unusual weak authentication by user
+Unverified domain added to Azure AD
+User attempted to connect from a suspicious country
+User collected remote shared files in an archive
+User connected from a new country
+User successfully connected from a suspicious country
+VM Detection attempt
+Vulnerable driver loaded
+Weakly-Encrypted Kerberos Ticket Requested
+WebDAV drive mounted from net.exe over HTTPS
+Windows Event Log cleared using wevtutil.exe
+Windows Installer exploitation for local privilege escalation
+WmiPrvSe.exe Rare Child Command Line
+Wscript/Cscript loads .NET DLLs
+Wsmprovhost.exe Rare Child Process

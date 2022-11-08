@@ -1,0 +1,12 @@
+BusyBox DNS Configuration
+BUAC3 - Bypass UAC
+BusyBox SMB Sharing
+Get Powershell execution policy
+Detect Powershell Version
+Create Domain Administrator
+Displays wireless SSIDs and PSKs
+DSS02L-Firewall:list of active rules on Linux
+DST6.1 - Disable Windows Defender	
+Shutdown of drinking water treatment at the water intake station.
+Displaying illegitimate content on advertising video screens
+Capture images from the city's surveillance cameras.
