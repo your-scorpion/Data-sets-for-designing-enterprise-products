@@ -1,0 +1,27 @@
+Secure boot (digitally signed image)
+Secure ELF loader (digitally signed applications)
+Secure storage
+Encrypted container
+Full disk encryption
+Kernel hardening
+Non-executable pages
+Stack guard pages
+Optional support for Kernel Page Table Isolation (KPTI)
+Protection of code and read-only data
+Stack Smashing Protection (SSP)
+Address Sanitizer (ASan)
+Security events
+Built-in access controls
+Advanced user management
+Login policies
+Password policies
+Support for AD/LDAP (Active Directory/Lightweight Directory Access Protocol)
+Cryptography
+OpenSSL 1.1.1
+FIPS 140-2 / FIPS 140-3 Arm® TrustZone with OP-TEE support
+TPM 2.0 / TSS support
+Network security protocols such as SSL, TLS, SSH, IPsec, IKE, GDOI, SCEP, etc.
+Firewall
+GE Digital® Achilles Level II certified for compliance with IEC 62443 part 4-2
+NIST conformant Security Configuration Guide (SRG)
+NIST 800-53 Mappings

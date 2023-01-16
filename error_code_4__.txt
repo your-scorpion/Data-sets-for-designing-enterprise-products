@@ -1,0 +1,7 @@
+400 Bad Request
+403 Forbidden
+404 Not Found
+411 Lengh Required
+417 Expectation Failed
+413 Reqeust Entity Too Large
+406 Not Acceptable

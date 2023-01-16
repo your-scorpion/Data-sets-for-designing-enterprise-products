@@ -7,5 +7,8 @@
 12 sec
 42 sec
 53 min
+42 sec
+4 min
+46 min
 3h
 35 sec

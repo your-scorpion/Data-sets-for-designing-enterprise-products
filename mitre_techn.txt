@@ -26,24 +26,17 @@ Valid Accounts
 Command and Scripting Interpreter 
 Exploitation for Client Execution
 Inter-Process Communication 
-
 Native API
 Scheduled Task/Job 
-
 Shared Modules
 Software Deployment Tools
 System Services 
-
 User Execution 
-
 Windows Management Instrumentation
 Account Manipulation 
-
 BITS Jobs
 Boot or Logon Autostart Execution 
-
 Boot or Logon Initialization Scripts 
-
 Browser Extensions
 Compromise Client Software Binary
 Create Account 
@@ -98,26 +91,17 @@ BITS Jobs
 Deobfuscate/Decode Files or Information
 Direct Volume Access
 Execution Guardrails 
-
 Exploitation for Defense Evasion
 File and Directory Permissions Modification 
-
 Group Policy Modification
 Hide Artifacts 
-
 Hijack Execution Flow 
-
 Impair Defenses 
-
 Indicator Removal on Host 
-
 Indirect Command Execution
 Masquerading 
-
 Modify Authentication Process 
-
 Modify Cloud Compute Infrastructure 
-
 Modify Registry
 Modify System Image 
 Network Boundary Bridging 
@@ -166,12 +150,10 @@ Network Sniffing
 Password Policy Discovery
 Peripheral Device Discovery
 Permission Groups Discovery 
-
 Process Discovery
 Query Registry
 Remote System Discovery
 Software Discovery 
-
 System Information Discovery
 System Network Configuration Discovery
 System Network Connections Discovery
@@ -206,27 +188,18 @@ Data from Local System
 Data from Network Shared Drive
 Data from Removable Media
 Data Staged 
-
 Email Collection 
-
 Input Capture 
-
 Man in the Browser
 Man-in-the-Middle 
-
 Screen Capture
 Video Capture
 Application Layer Protocol 
-
 Communication Through Removable Media
 Data Encoding 
-
 Data Obfuscation 
-
 Dynamic Resolution 
-
 Encrypted Channel 
-
 Fallback Channels
 Ingress Tool Transfer
 Multi-Stage Channels
@@ -239,12 +212,9 @@ Remote Access Software
 Traffic Signaling 
 
 Web Service 
-
 Automated Exfiltration 
-
 Data Transfer Size Limits
 Exfiltration Over Alternative Protocol 
-
 Exfiltration Over C2 Channel
 Exfiltration Over Other Network Medium 
 

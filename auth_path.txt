@@ -1,0 +1,5 @@
+/login
+/auth/token
+/auth
+/signin
+/auth?type=signUp&from=${path}

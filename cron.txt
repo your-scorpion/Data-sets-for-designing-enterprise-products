@@ -1,0 +1,6 @@
+At 2, 4, 22, and 24 minutes past the hour, at 01:00 AM through 02:59 AM, 02:00 PM, 04:00 PM, and 08:00 PM through 09:59 PM, only on Sunday and Wednesday
+At 21 and 23 minutes past the hour, at 00:00 AM through 01:59 AM, 04:00 AM through 08:59 PM, and 10:00 PM, only on Sunday
+At 1 and 23 minutes past the hour
+At 0, 2, and 51 minutes past the hour
+Every 2 minutes, minutes 29 through 33 past the hour, at 00:00 AM, 02:00 AM, 04:00 AM, 07:00 PM, and 09:00 PM, only on Wednesday
+At 1 and 22 through 23 minutes past the hour, at 09:00 PM

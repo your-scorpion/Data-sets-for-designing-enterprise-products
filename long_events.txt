@@ -1,0 +1,31 @@
+Wed Jan 31 14:25:33 2018 WARNING: —ns-cert-type is DEPRECATED.  Use —remote-cert-tls instead.
+Wed Jan 31 14:25:34 2018 TCP/UDP: Preserving recently used remote address: [AF_INET]195.218.185.5:443
+Wed Jan 31 14:25:34 2018 Socket Buffers: R=[8192->8192] S=[8192->8192]
+Wed Jan 31 14:25:34 2018 Attempting to establish TCP connection with [AF_INET]195.218.185.5:443 [nonblock]
+Wed Jan 31 14:25:34 2018 MANAGEMENT: >STATE:1517397934,TCP_CONNECT,,,,,,
+Wed Jan 31 14:25:35 2018 TCP connection established with [AF_INET]195.218.185.5:443
+Wed Jan 31 14:25:35 2018 TCP_CLIENT link local: (not bound)
+Wed Jan 31 14:25:35 2018 TCP_CLIENT link remote: [AF_INET]195.218.185.5:443
+Wed Jan 31 14:25:35 2018 MANAGEMENT: >STATE:1517397935,WAIT,,,,,,
+Wed Jan 31 14:25:35 2018 MANAGEMENT: >STATE:1517397935,AUTH,,,,,,
+Wed Jan 31 14:25:35 2018 TLS: Initial packet from [AF_INET]195.218.185.5:443, sid=eef77000 71b32c6c
+Wed Jan 31 14:25:35 2018 WARNING: this configuration may cache passwords in memory — use the auth-nocache option to prevent this
+Wed Jan 31 14:25:35 2018 VERIFY OK: depth=1, C=RU, ST=MO, L=Moscow, O=QDMG, OU=changeme, CN=changeme, name=admin, emailAddress=adm@qdmg.ru
+Wed Jan 31 14:25:35 2018 VERIFY OK: nsCertType=SERVER
+Wed Jan 31 14:25:35 2018 VERIFY OK: depth=0, C=RU, ST=MO, L=Moscow, O=QDMG, OU=changeme, CN=server, name=asmin, emailAddress=adm@qdmg.ru
+Wed Jan 31 14:25:35 2018 WARNING: 'link-mtu' is used inconsistently, local='link-mtu 1591', remote='link-mtu 1559'
+Wed Jan 31 14:25:35 2018 WARNING: 'tun-mtu' is used inconsistently, local='tun-mtu 1532', remote='tun-mtu 1500'
+Wed Jan 31 14:25:35 2018 Control Channel: TLSv1.2, cipher TLSv1/SSLv3 DHE-RSA-AES256-GCM-SHA384, 2048 bit RSA
+Wed Jan 31 14:25:35 2018 [server] Peer Connection Initiated with [AF_INET]195.218.185.5:443
+Wed Jan 31 14:25:36 2018 MANAGEMENT: >STATE:1517397936,GET_CONFIG,,,,,,
+Wed Jan 31 14:25:36 2018 SENT CONTROL [server]: 'PUSH_REQUEST' (status=1)
+Wed Jan 31 14:25:41 2018 SENT CONTROL [server]: 'PUSH_REQUEST' (status=1)
+Wed Jan 31 14:25:45 2018 Key [AF_INET]195.218.185.5:443 [0] not initialized (yet), dropping packet.
+Wed Jan 31 14:25:47 2018 SENT CONTROL [server]: 'PUSH_REQUEST' (status=1)
+Wed Jan 31 14:25:47 2018 PUSH: Received control message: 'PUSH_REPLY,ping 20,ping-restart 60,topology p2p,ifconfig 172.16.100.255 172.16.100.1'
+Wed Jan 31 14:25:47 2018 OPTIONS IMPORT: timers and/or timeouts modified
+Wed Jan 31 14:25:47 2018 OPTIONS IMPORT: —ifconfig/up options modified
+Wed Jan 31 14:25:47 2018 Data Channel Encrypt: Cipher 'AES-256-CBC' initialized with 256 bit key
+Wed Jan 31 14:25:47 2018 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
+Wed Jan 31 14:25:47 2018 Data Channel Decrypt: Cipher 'AES-256-CBC' initialized with 256 bit key
+Wed Jan 31 14:25:47 2018 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication
